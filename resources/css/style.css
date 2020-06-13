@@ -55,6 +55,8 @@ html {
     position: fixed;
     z-index: 30;
     width: 100%;
+    position: fixed;
+    top:0;
   }
   
   #company-name {
@@ -67,6 +69,7 @@ html {
   #logo {
     display: flex;
     align-items: center;
+    
   }
   
   #logo span {
@@ -84,22 +87,27 @@ html {
     display: flex;
     align-items: center;
     margin-right: 24px;
+    top: 0;
+    
   }
   
   nav ul {
     display: flex;
     align-content: center;
+    
   }
   
   nav li {
     margin-right: 16px;
     height: 100%;
     text-transform: uppercase;
+    display: inline-block;
+    
   }
   
   nav a:hover {
     opacity: .8;
-    text-decoration: line-through;
+    
   }
   
   a {
@@ -541,10 +549,7 @@ html {
     margin: 0 2rem;
   }
   
-  #legal a:hover {
-    text-decoration: line-through;
-  }
-  
+ 
   
   /*--Footer Breakpoint--*/
   
