@@ -6,7 +6,5 @@ Final capstone project for https://www.codecademy.com/paths/learn-how-to-build-w
 
 - build websites from scratch! It’s time to apply everything you’ve learned.
 
-- complete a capstone project utilizing all of the skills you’ve learned so far to design and create a responsive landing page about Colmar Academy for desktop and mobile pages
-
--view my site at https://pen-kim.github.io/colmar-academy
+- view my site at https://pen-kim.github.io/colmar-academy
 
